@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 300;
+  src: local(''),
+       url('./fonts/Epilogue-Light.ttf') format('truetype'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+@font-face {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('./fonts/Epilogue-Regular.ttf') format('truetype'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+@font-face {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 500;
+  src: local(''),
+       url('./fonts/Epilogue-Medium.ttf') format('truetype'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+@font-face {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 600;
+  src: local(''),
+       url('./fonts/Epilogue-SemiBold.ttf') format('truetype'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+@font-face {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+       url('./fonts/Epilogue-Bold.ttf') format('truetype'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
