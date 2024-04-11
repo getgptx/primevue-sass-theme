@@ -870,10 +870,10 @@ $imagePreviewActionIconFontSize: 1.5rem !default;
 $imagePreviewActionIconBorderRadius: 50% !default;
 
 :root {
-    font-family: "Inter var", sans-serif;
+    font-family: Geist, "Inter var", sans-serif;
     font-feature-settings: "cv02", "cv03", "cv04", "cv11";
     font-variation-settings: normal;
-    --font-family: "Inter var", sans-serif;
+    --font-family: Geist, "Inter var", sans-serif;
     --font-feature-settings: "cv02", "cv03", "cv04", "cv11";
     --text-color: #{$shade700};
     --text-color-secondary: #{$shade500};
